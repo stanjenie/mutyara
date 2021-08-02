@@ -6,6 +6,6 @@
 
 ## Blogs
 
-[Loona](./loona.html)
+[Loona](./loona/)
 
-[WJSN](./wjsn.html)
+[WJSN](./wjsn/)
