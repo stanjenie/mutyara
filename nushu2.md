@@ -1,3 +1,7 @@
+layout: page
+title: "Nushu Translator"
+permalink: /nushu2/
+
 ## Nushu
 
 <script type="text/javascript">
