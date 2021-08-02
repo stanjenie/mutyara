@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Nushu Translator"
+title: Nushu Translator
 permalink: /nushu2/
 ---
 
