@@ -1,3 +1,9 @@
+---
+title: Loona Theories
+permalink: /loona/
+---
+
+
 # Loona Theories
 
 ## Vivid
