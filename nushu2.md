@@ -1,4 +1,5 @@
 ---
+title: Nüshu Translator
 permalink: /nushu2/
 ---
 
