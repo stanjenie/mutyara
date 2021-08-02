@@ -1,4 +1,6 @@
-
+---
+permalink: /nushu2/
+---
 
 ## Nushu
 
