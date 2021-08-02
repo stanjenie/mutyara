@@ -21,7 +21,6 @@ function myFunction() {
     if (containsObject(document.getElementById("input").value[i], in_text)) {
   translation+="<span style=\"color:"+colorPionYe(out_text[in_text.indexOf(document.getElementById("input").value[i])])+"\">"+(out_text[in_text.indexOf(document.getElementById("input").value[i])].replace(/e/g, "ə").replace(/w/g, "ɯ").replace(/c/g, "ɕ").replace(/ng/g, "ŋ").replace(/nj/g, "ɳ").replace(/1/g,"₁").replace(/2/g,"₂").replace(/3/g,"₃").replace(/4/g,"₄").replace(/5/g,"₅")+" ")+"</span>";
   textPionYe+="<span style=\"color:"+colorPionYe(out_text[in_text.indexOf(document.getElementById("input").value[i])])+"\">"+(transPionYe(out_text[in_text.indexOf(document.getElementById("input").value[i])])+" ")+"</span>";
-
   }else if (document.getElementById('input').value[i]=="\n") {
 	translation+="<br />";
 	textPionYe+="<br />";
@@ -58,7 +57,6 @@ function containsObject(obj, list) {
             return true;
         }
     }
-
     return false;
 } 
 function transPionYe(pionye_in) {
@@ -146,7 +144,6 @@ function transPionYe(pionye_in) {
 		.replace(/n(?=[a-z]*44)/g, "n̂")
 		.replace(/n(?=[a-z]*55)/g, "n̄")
 		.replace(/n(?=[a-z]*33)/g, "n̍");
-		
 	}
 	res=res.replace(/[1-5]/g, "");
 	if (str.slice(0,2)=="**") {
