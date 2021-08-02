@@ -1,8 +1,4 @@
----
-layout: post
-title: Nushu Translator
-permalink: /nushu2/
----
+
 
 ## Nushu
 
