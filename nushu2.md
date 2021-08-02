@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Nushu Translator
 permalink: /nushu2/
 ---
