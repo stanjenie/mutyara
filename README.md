@@ -2,7 +2,7 @@
 
 ## Website
 
-[Github Pages](stanjenie.github.com/mutyara)
+[Github Pages](http://stanjenie.github.com/mutyara)
 
 ## Projects
 
