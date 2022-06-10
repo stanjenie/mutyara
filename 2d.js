@@ -1,3 +1,5 @@
+import { useCallback, useEffect, useState } from "react";
+
 // Size of canvas. These get updated to fill the whole browser.
 let width = 150;
 let height = 150;
