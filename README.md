@@ -7,6 +7,7 @@
 ## Projects
 
 [Nüshu Translator](./nushu2/)
+
 [Visualisation](./vis/)
 
 ## Blogs
