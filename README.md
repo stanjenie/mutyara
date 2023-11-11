@@ -8,10 +8,6 @@
 
 [Nüshu Translator](./nushu2/)
 
-[Visualisation](./vis/)
+[Visualisation](./vis.html)
 
-## Blogs
 
-[Loona](./loona/)
-
-[WJSN](./wjsn/)
